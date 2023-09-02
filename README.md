@@ -8,6 +8,6 @@
 
 ### 2、uKantboot
 
-是基于本项目的框架
-
-<a href="uni_modules/uniapp-kantboot">前往查看</a>
+> 是基于本项目的框架
+> 
+><a href="/uni_modules/uni-kantboot/README.md">README.md</a>
