@@ -10,4 +10,4 @@
 
 > 是基于本项目的框架
 > 
-><a href="/uni_modules/uni-kantboot/README.md">README.md</a>
+><a href="./uni_modules/uni-kantboot/README.md">README.md</a>
