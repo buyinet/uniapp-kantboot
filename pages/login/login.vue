@@ -8,7 +8,7 @@
 
 		<kt-button>
 			<!-- 获取tabbar首页的文本名称 -->
-			<kt-i18n-text text-code="tabbar.index"></kt-i18n-text>
+			<kt-i18n-text text-code="tabbar.index"></kt-i18n-text>		
 		</kt-button>
 		
 

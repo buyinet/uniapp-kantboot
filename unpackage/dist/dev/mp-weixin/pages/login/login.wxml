@@ -1,0 +1,1 @@
+<view><kt-status-bar vue-id="35a7246c-1" bind:__l="__l"></kt-status-bar><kt-i18n-text vue-id="35a7246c-2" text-code="appName" bind:__l="__l"></kt-i18n-text><kt-button vue-id="35a7246c-3" bind:__l="__l" vue-slots="{{['default']}}"><kt-i18n-text vue-id="{{('35a7246c-4')+','+('35a7246c-3')}}" text-code="tabbar.index" bind:__l="__l"></kt-i18n-text></kt-button></view>

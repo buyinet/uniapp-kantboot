@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "kt-i18n-text": "/uni_modules/uniapp-kantboot/components/kt-i18n-text/kt-i18n-text",
+    "kt-button": "/uni_modules/uniapp-kantboot/components/kt-button/kt-button"
+  }
+}
