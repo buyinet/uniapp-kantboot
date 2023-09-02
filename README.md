@@ -10,4 +10,4 @@
 
 是基于本项目的框架
 
-<a href="uni_modules\uniapp-kantboot">前往查看</a>
+<a href="uni_modules/uniapp-kantboot">前往查看</a>
